@@ -1,0 +1,22 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+.navbar{
+    background-color: #28a745;
+}
+.precio-primero,.card-text{
+    color: #707070;
+}
+.segundo{
+    color:#28a745;
+    font-size: 20px;
+    font-weight: 500;
+}
+.footer{
+    background-color: #28a745;
+    color: #fff;
+}
+.copy{
+    color: #707070;
+    font-weight: 300;
+}
